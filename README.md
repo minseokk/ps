@@ -13,3 +13,7 @@ DFS, Graph
 1. at first tried storing input in 2d array and DFSed from 1.
     1. got time-out.
 2. implemented graph to store input.
+
+### 2252
+#### Algorithm
+Graph, Topological Sort
