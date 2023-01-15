@@ -17,3 +17,11 @@ DFS, Graph
 ### 2252
 #### Algorithm
 Graph, Topological Sort
+
+### 17270
+#### Algorithm 
+Floyd-Warshall Algorithm
+Took long time to satify the conditions.
+#### Lesson
+- Never assume something that's not in the problem.
+- A problem can be quite dirty.
